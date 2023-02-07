@@ -1,0 +1,19 @@
+
+  .dashboard {
+    background-color: gray;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 100px;
+  }
+
+  .dashboard h1{
+    text-align: center;
+    color: white;
+  }
+  .dashboard #search-bar{
+    position: relative;
+    left: 10px;
+  }
+  
+  
