@@ -1,6 +1,6 @@
 
   .dashboard {
-    background-color: gray;
+    background-color: purple;
     border-style: solid;
     border-width: 5px;
     border-color: black;
@@ -11,9 +11,10 @@
     text-align: center;
     color: white;
   }
-  .dashboard #search-bar{
-    position: relative;
-    left: 10px;
+
+  .dashboard p{
+    text-align: center;
+    color: white;
   }
   
   
